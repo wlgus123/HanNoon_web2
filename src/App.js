@@ -11,9 +11,9 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="http://localhost:5050/api/hello"
           target="_blank"
-          rel="noopener noreferrer"
+          // rel="noopener noreferrer"
         >
           Learn React
         </a>
